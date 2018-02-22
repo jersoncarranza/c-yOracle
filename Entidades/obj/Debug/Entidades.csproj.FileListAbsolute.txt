@@ -1,0 +1,6 @@
+c:\Users\keny\source\repos\Oracle\Entidades\bin\Debug\Entidades.dll
+c:\Users\keny\source\repos\Oracle\Entidades\bin\Debug\Entidades.pdb
+c:\Users\keny\source\repos\Oracle\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+c:\Users\keny\source\repos\Oracle\Entidades\obj\Debug\Entidades.dll
+c:\Users\keny\source\repos\Oracle\Entidades\obj\Debug\Entidades.pdb
+c:\Users\keny\source\repos\Oracle\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\keny\source\repos\Oracle\Oracle\bin\Debug\Oracle.exe.config
+c:\users\keny\source\repos\Oracle\Oracle\bin\Debug\Oracle.exe
+c:\users\keny\source\repos\Oracle\Oracle\bin\Debug\Oracle.pdb
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.Properties.Resources.resources
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.csproj.GenerateResource.Cache
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.csproj.CoreCompileInputs.cache
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.exe
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.pdb
+c:\users\keny\source\repos\Oracle\Oracle\obj\Debug\Oracle.Form1.resources
+c:\users\keny\source\repos\Oracle\Oracle\bin\Debug\Entidades.dll
+c:\users\keny\source\repos\Oracle\Oracle\bin\Debug\Entidades.pdb
